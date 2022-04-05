@@ -15,8 +15,6 @@ Aula 8
 
 https://youtu.be/RyRiXwSPclU
 
-
-
 ## Descrição
 Conforme extraída dos vídeos do Prof. Ricardo
 
